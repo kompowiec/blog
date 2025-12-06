@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-US</language>
     <copyright>Copyright © 2025 kompowiec2. Verbatim copying and redistribution of this entire page are permitted provided this notice is preserved. Verbatim copying and redistribution of any of the content is permitted under the Creative Commons Noderivs license version 3.0 or later.</copyright>
-    <lastBuildDate>Sun, 28 Sep 2025 20:50:14 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 06 Dec 2025 07:12:33 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TRIZ Contradiction Matrix enhanced  Proposal</title>
+      <link>http://localhost:1313/posts/triz-matrix-proposal/</link>
+      <pubDate>Sat, 06 Dec 2025 07:12:33 +0100</pubDate>
+      <guid>http://localhost:1313/posts/triz-matrix-proposal/</guid>
+      <description>Weight of moving object Weight of stationary object Length of moving object Length of stationary object Area of moving object Area of stationary object Volume of moving object Volume of stationary object Speed Force (Intensity) Stress or pressure Shape Stability of the object&amp;#39;s composition Strength Duration of action of moving object Duration of action of stationary object Temperature Illumination intensity Use of energy by moving object Use of energy by stationary object Power Loss of Energy Loss of Substance Loss of Information Loss of Time Quantity of substance Reliability Measurement accuracy Manufacturing precision Object-affected harmful factors Object-generated harmful factors Ease of manufacture Ease of operation Ease of repair Adaptability or versatility Device complexity Difficulty of detecting and measuring Extent of automation Productivity Inventive Principles 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 1.</description>
+    </item>
     <item>
       <title>How much data can fit into a parcel locker? InPost as example</title>
       <link>http://localhost:1313/posts/paczkomat/</link>
@@ -36,6 +43,13 @@
       <pubDate>Sun, 14 Sep 2025 13:01:46 +0100</pubDate>
       <guid>http://localhost:1313/posts/trolling/</guid>
       <description>Energy vampires, authoritarianism, trolls, propagandist and just other toxic people usually run on:&#xA;Attention Validation Drama Control. I don&amp;#39;t any of these, my goal is just peace. Especially trolls, they are not just any rude person. A troll deliberately says/does things to provoke an emotional reaction. They usually don’t believe what they’re saying — they just want attention and they can&amp;#39;t be shamed, reasoned, satire, they know they’re being absurd.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/hedgewars/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/hedgewars/</guid>
+      <description>s— title: &amp;#34;Hedgewars Strategy&amp;#34; date: 2025-11-15T23:28:43+01:00 draft: true —&#xA;First turn # Scenario Method Est. Damage Reliability Risk 2 Barrel Dynamite 150 + ★★★★★ 🔥 Splash possible 5 Barrel Mortar/Cluster chain 145–200 max ★★★★☆ 🎯 Accuracy-dependent 3 Mine Dynamitee 125 + ★★★★★ ✅ Safe 5 Barrel Hammer 108–120 ★★★★☆ ⚠️ Needs precise positioning 1 Barrel Kamikaze 105–150 + ★★★★★ ☠️ Self-kill 6 None Perfect Mortar/Cluster 100–145 ★★★☆☆ 🎯 Skill-based 7 Barrel Flamethrower/Molotov 100 + ★★★★☆ 🔥 Fire spread 8 Mine Grenade 100 ★★★☆☆ ⚠️ Timer-sensitive 4 Mine Kamikaze 80-110 + ★★★★☆ ☠️ Self-kill 8 None Dynamite only 75 ★★★★★ ✅ Safe 2 turns # Scenario Method Est.</description>
     </item>
   </channel>
 </rss>

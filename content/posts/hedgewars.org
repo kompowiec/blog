@@ -1,0 +1,65 @@
+s---
+title: "Hedgewars Strategy"
+date: 2025-11-15T23:28:43+01:00
+draft: true
+---
+
+* First turn
+| # | Scenario | Method                 | Est. Damage | Reliability | Risk                          |
+| 2 | Barrel   | Dynamite               | 150 +       | ★★★★★       | 🔥 Splash possible           |
+| 5 | Barrel   | Mortar/Cluster chain   | 145–200 max | ★★★★☆       | 🎯 Accuracy-dependent        |
+| 3 | Mine     | Dynamitee              | 125 +       | ★★★★★       | ✅ Safe                      |
+| 5 | Barrel   | Hammer                 | 108–120     | ★★★★☆       | ⚠️ Needs precise positioning |
+| 1 | Barrel   | Kamikaze               | 105–150 +   | ★★★★★       | ☠️ Self-kill                 |
+| 6 | None     | Perfect Mortar/Cluster | 100–145     | ★★★☆☆       | 🎯 Skill-based               |
+| 7 | Barrel   | Flamethrower/Molotov   | 100 +       | ★★★★☆       | 🔥 Fire spread               |
+| 8 | Mine     | Grenade                | 100         | ★★★☆☆       | ⚠️ Timer-sensitive           |
+| 4 | Mine     | Kamikaze               | 80-110 +    | ★★★★☆       | ☠️ Self-kill                 |
+| 8 | None     | Dynamite only          | 75          | ★★★★★       | ✅ Safe                      |
+
+* 2 turns
+|  # | Scenario    | Method           | Est. Damage                    | Reliability | Risk  |                                                        |   |
+|  3 | Barrel      | Construction     | Cluster Bomb → Barrel          | 200+ max    | ★★★★☆ | 🎯 Skill-dependent                                    |   |
+| 12 | None        | Construction     | Mortar/Cluster Bom             | 145–160+    | ★★★☆☆ | 🎯 Skill-based, requires precise bounce               |   |
+| 14 | Barrel/Mine | Construction     | Dynamite/Cluster Bomb/Kamikaze | 220+ max    | ★★★☆☆ | 🎯 Very skill-intensive                               |   |
+|  9 | Mine        | Construction     | Mortar/Cluster Bombs           | 145–160+    | ★★★☆☆ | 🎯 Skill-based                                        |   |
+| 13 | none        | Dynamite         | Grenade/mine                   | 125         | ★★★★☆ | ⚠️ Timing & positioning                               |   |
+|  9 | none        | Hammer           | Shotgun                        | 83          | ★★★★☆ | 🎯 Requires two hedgehogs in sequence, moderate skill |   |
+| 10 | none        | Kamikaze         | Shotgun/Grenade                | 80-110      | ★★★★☆ | ☠️ First hedgehog dies                                |   |
+
+
+|  # | Scenario         | Method / Sequence                                    | Est. Damage | Turns | Reliability | Risk                                                        |
+| -- | ---------------- | ---------------------------------------------------- | ----------- | ----- | ----------- | ----------------------------------------------------------- |
+|  1 | Barrel           | Construction → Cluster Bomb → Barrel                 | 200+ max    | 1–2   | ★★★★☆       | 🎯 Skill-dependent, precise placement                      |
+|  8 | Mine             | Dynamite → Mine                   | 125–135     | 1–2   | ★★★★★       | 🔥 Safe if positioning allows                              |
+| 10 | Barrel           | Molotov / Flamethrower → Barrel → follow-up shot     | 100–120     | 2     | ★★★★☆       | 🔥 Fire spread, skill-dependent                            |
+
+
+|  # | Scenario                          | Method                                                           | Turns | Est. Damage | Notes / Risk                                                                                                   |
+| -- | --------------------------------- | ---------------------------------------------------------------- | ----- | ----------- | -------------------------------------------------------------------------------------------------------------- |
+|  1 | Barrel nearby                     | Construction → Cluster Bomb → Shotgun                            |     3 | 200+        | Construct sticky flames to ensure fragment triggers barrel; second hedgehog cleans up. Skill-dependent aiming. |
+|  7 | Barrel + Mine combo               | Cluster Bomb → barrel → switch → Dynamite → mine                 |     3 | 200+        | Multi-hazard chaining; very high damage; requires precise positioning.                                         |
+|  8 | Flat terrain + hazards            | Kamikaze → sticky flames / Barrel → Grenade                      |   2–3 | 150–180     | Combines positional manipulation + hazard + second hedgehog cleanup.                                           |
+|  5 | Mine + open terrain               | Dynamite → switch → Cluster Bomb                                 |     2 | 145–170     | Rope positions enemy over mine; Dynamite triggers; Cluster Bomb finishes kill.                                 |
+|  6 | Flat / destructible terrain       | Construction → Mortar / Cluster Bomb → sticky flames setup       |   2–3 | 145–160+    | Use Construction to place sticky flames around enemy, then fragment weapon detonates flames for extra damage.  |
+|  4 | Barrel + open terrain             | Construction → Molotov → Barrel chain → switch → Hammer          |   2–3 | 130–160+    | Sticky flames ignite barrel; second hedgehog finishes with Hammer.                                             |
+| 10 | Barrel + explosive terrain        | Molotov → Barrel → sticky flames → switch → Shotgun              |     2 | 130–150     | Style combo; risk: precise positioning needed to ignite barrel with Molotov flames.                            |
+|  9 | Flat / no hazard                  | Construction → Cluster Bomb → Shotgun                            |     2 | 120–145     | Sticky flames help push damage above 100; safe if aiming carefully.                                            |
+* 3 turns
+|  # | Scenario                          | Method                                                           | Turns | Est. Damage | Notes / Risk                                                                                                   |
+| -- | --------------------------------- | ---------------------------------------------------------------- | ----- | ----------- | -------------------------------------------------------------------------------------------------------------- |
+|  2 | Barrel      | Construction | Cluster Bomb → Flames              |        200+ | ★★★★☆       | 🎯 Skill-dependent                                    |   |
+|  5 | Barrel      | Construction | Cluster Bomb + Dynamite            |    220+ max | ★★★☆☆       | 🎯 Very skill-intensive                               |   |
+
+** Legend
+- Expected Damage: Approximate total damage considering primary weapon + hazard chain + environmental effects.
+- Reliability:
+  - ★★★★★ = almost guaranteed with correct positioning
+  - ★★★★☆ = very high, minor skill required
+  - ★★★☆☆ = medium, depends on precision or randomness
+- Risk:
+  - ✅ Safe = no self-harm
+  - ☠️ Self-sacrifice = hedgehog dies
+  - 🔥 Fire spread = potential collateral damage
+  - ⚠️ Precise setup = may fail if mispositioned
+  - 🎯 Skill-based = requires high accuracy / timing

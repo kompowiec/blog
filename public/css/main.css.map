@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/kompowiec2/.local/stow/git/kompowiec2.github.io",
+	"sourceRoot": "/home/kompowiec2/.local/stow/git/kompowiec2.github.io/blog",
 	"sources": [
 		"themes/hugo-theme-nostyleplease/assets/css/main.scss"
 	],
