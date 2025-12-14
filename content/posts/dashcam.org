@@ -1,0 +1,280 @@
+---
+title: "car dash cam"
+date: 2025-12-12T17:29:56+01:00
+draft: true
+---
+
+Below is a concise, practical, hype-free buyer’s guide to dash cams written from the pragmatic buyer’s perspective — someone who wants value, reliability, and long-term usefulness, not marketing buzzwords.
+A dash cam should be like a seat belt—working when needed. Therefore, the most important factors are:
+
+1. Reliability (capacitor, brand, temperature resistance).
+2. Recording clarity at night.
+3. Front and rear cameras instead of the marketing 4K.
+4. Parking mode only with constant power.
+5. Real cost: camera + decent card + accessories.
+
+Dash cams are built using:
+- the same Novatek SoCs,
+- the same Sony STARVIS sensors,
+- the same generic Chinese plastic shells.
+99% of them are the same PCB inside the same shell.
+* Decide What You Actually Need
+Dash cams come in three main setups:
+1. **Front-only**
+   ✔ cheapest, simplest
+   ✔ enough for 90% of accidents
+   ✘ no rear coverage
+2. **Front + rear** (dual-channel)
+   ✔ best value for real-world incidents (parking bumps, tailgaters, rear-end collisions)
+   ✔ recommended for most drivers
+   ✘ installation takes longer
+3. **360°/3-channel/4K marketing monsters**
+   ✔ cool on paper
+   ✘ often overpriced, overheating, lower real clarity
+   ✘ “4K” often fake/up-sampled
+* Tier 1: Essential (must-have)
+** 0. Automatic recording start
+This is one of the **most important** features. Without it, the camera might… simply not record when you need it to.
+
+What it does:
+
+- The camera **turns on and records automatically** when power is available (ACC/USB/cigarette lighter socket).
+- You don't have to remember to use it.
+- Minimizes the risk of the camera being off during an accident.
+- Manually turning it on = people forget.
+- If the camera doesn't record, everything else becomes irrelevant.
+- a device that requires you to remember to use it is a bad device.
+** 1. Capacitor power supply
+Prevents overheating, swelling, or sudden death.
+Battery = failure. Capacitor = reliability.
+** 2. Sensor quality (not resolution)
+Manufacturers hype “4K” because it sounds premium.
+Reality: cheap 4K sensors usually perform worse at night than a good 1080p Sony Starvis sensor.
+
+Look for:
+- Sony Starvis or Starvis 2 sensor
+- Good low-light performance
+- Real bit rate above ~20 Mbps
+
+Avoid no-name “4K Ultra Super Night Vision” claims.
+** 3. Parking mode
+This is what actually matters in the real world.
+Parking mode can work in 3 ways:
+
+1. **Buffered (best)**
+   - Records ~5–15 seconds before impact + after impact.
+   - Only mid/high-end models do this.
+2. **Impact-only (basic)**
+   - Wakes up only when G-sensor detects a hit.
+   - Cheap, but misses everything except the moment of impact.
+3. **Motion-triggered (mixed usefulness)**
+   - Very sensitive, often fills card with false positives (shadows, rain, trees).
+** 4. Memory card
+Dash cams kill SD cards. Buy the correct type:
+
+- Samsung PRO Endurance, or
+- SanDisk High Endurance, or
+- Transcend High Endurance
+Avoid: “normal” SD cards. They die quickly.
+
+Size: 128GB is sweet spot. Bigger = less overwriting = more useful.
+** 5. Heat resistance
+Dash cams die from heat before they die from anything else — especially in summer.
+
+Look for:
+- Capacitor power supply (NOT lithium battery)
+- Operating temp up to 60–70°C
+Avoid: “battery-powered dash cams” and ultra-cheap €20–€40 no-brand units.
+** 6. Reasonable viewing angle (140°–150°)
+Wide enough to capture events, not too wide to distort plates.
+* Tier 2: Important, but not critical
+** Glass lens
+Gives more readable plates in tough lighting.
+** HDR/WDR
+Gives more readable plates in tough lighting.
+** GPS
+- speed recording
+- exact location of incidents
+- more credible evidence
+Not essential if you're minimizing cost.
+** Microphone (with mute option)
+Audio can help in disputes (e.g., road rage), but is not essential.
+** Time-lapse parking mode
+Useful if you park in risky areas, but not required for everyone.
+* Tier 3: Nice-to-have / convenience
+** LTE
+- What it does:
+  - Allows you to view live camera feeds or notifications on your phone when you're away from your car.
+  - Some models send alerts in the event of a collision or movement.
+- Pros:
+  - Useful if you frequently leave your car in dangerous areas and want immediate information.
+  - In theory, it provides "remote protection" for your car.
+- Cons
+  - Expensive data plan/SIM card
+    - LTE requires a permanent connection, often with a monthly fee.
+  - Free access is practically nonexistent.
+  - Battery and Heat
+    - LTE generates additional heat → the camera heats up faster → shortens its lifespan.
+    - In a car in the summer, this is a real problem.
+  - High risk of outage/range
+    - LTE signal in a garage/parking lot may be weak.
+    - If LTE fails, notifications won't arrive → a false sense of security.
+- Not a substitute for recording
+  - Even if it notifies you of a collision, if the SD card didn't record the event, you have no evidence.
+- If your **primary goal** = recording evidence in the event of an accident → LTE **is not necessary**.
+- LTE is an **optional add-on**, useful only for people who:
+  - Park in high-risk areas
+  - Want instant notifications
+  - Can and are willing to pay a subscription
+** Wi-Fi & app
+Most apps are slow, buggy, annoying.
+
+- Nice to have, but don’t pay extra just for Wi-Fi.
+- If you only check footage occasionally, you can pull the card manually.
+** H.265 file format
+Saves space, but H.264 is totally fine.
+** CPL polarizing filter - situational
+- reduces windshield reflections
+- reduces dashboard glare
+- makes daytime footage cleaner
+- improves visibility of details **in sunlight**
+- Why it’s NOT essential:
+  - It **hurts night performance** (darkens image).
+  - People forget to remove it at night → footage looks worse.
+  - Only helps if your car has a shiny or bright dashboard.
+CPL is useful for daytime drivers. Harmful for night drivers.
+If you do a lot of night driving → skip.
+If you drive mostly during the day → worth considering.
+** hardwire kit
+- are cheap (50–120 PLN)
+- safe
+- low-power
+- protect the car battery
+- designed for heat
+** License plate tagging / on-screen overlays
+Convenient, but doesn’t improve actual video clarity.
+** Image stabilization (EIS)
+Small improvement; not big enough to justify price jumps.
+** Ability to disable speed recording
+In some countries/disputes, it's better not to have speed data recorded. A good feature from a legal perspective.
+* Tier 4: Low-tier
+** motion detection
+What it does: The camera "wakes up" and records when it detects motion in the frame.
+
+Why it's weak:
+- Reacts to:
+- rain
+- shadow
+- people walking 10 meters away
+- cars passing by
+- Very often **clogs the memory card with unnecessary clips**.
+- In uncached parking mode, it has little evidently value because:
+  - it doesn't record *before* an event
+  - it often triggers too late
+
+**Summary:** Unless you have *cached parking mode*, motion detection is almost useless.
+** Ultra-wide angles (165°–180°)
+Looks good on paper, makes plates unreadable.
+* Tier 5: Garbabe/avoid
+** Internal battery
+Fails in heat, swells, destroys device. Hard “no”. Always choose capacitor.
+** Fake 4K / upscaled resolution
+More heat, worse night clarity, useless marketing number.
+** No-name proprietary file formats
+Impossible to play on phones or PCs. If vendor disappears, your footage becomes unreadable.
+** Super cheap “Amazon/AliExpress no-brand” models
+Random firmware, weak sensors, overheating, fake specs.
+** Cloud storage
+subscription trap in many models
+** ADAS
+- Forward Collision Warnings
+- Obstacle Warnings
+- Lane Departure Warnings
+- Speed ​​Camera Warnings
+- Segment Speed ​​Measurements
+- SOS Mode
+
+GARBAGE MARKETING
+
+Why:
+
+- They perform worse than the car's built-in systems
+- False Alarms
+- Distracting
+- They rely on a cheap camera and a weak CPU
+** photos
+Garbage. The phone takes better photos. The camera lacks autofocus or decent optics for taking photos.
+** Waterproof
+USELESS. The dashcam is inside the car. If someone advertises it, it's a red flag.
+** Automatic preview when reversing
+LOW VALUE. Lags, small screen, worse than a rearview camera
+** 360 rotation
+More mechanics = higher failure rates Often worse optics
+** Geofencing
+garbage. Makes sense only in fleets.
+** gyroscope
+it's just marketing. It doesn't really improve anything for the average user.
+** Find my parked car
+garbage. Any smartphone + navigation does it better.
+* How to increase readability
+| Mode / Combination    | Reflections / Reflections | Board Readability | Overall Brightness | Night                 | Day            | Notes                                                                   |
+| **HDR only**          | ❌ partial reflections   | ✔️✔️             | ✔️                | ✔️                   | ❌ it bothers | HDR helps balance light but does not remove reflections from the board. |
+| **–1 EV only**        | ❌                       | ✔️               | – darker           | ⚠️ maybe too dark    | ✔️            | Reduces blown-out, works mainly during the day.                         |
+| **CPL only**          | ✔️✔️                     | ✔️✔️             | – slightly darker  | ✔️                   | ✔️✔️          | Greatest effect on reflections, slightly darkens the image.             |
+| **–1 EV + CPL**       | ✔️✔️                     | ✔️✔️             | – dark             | ⚠️ slightly too dark | ✔️✔️          | Best during the day with sun and reflections.                           |
+| **HDR + –1 EV**       | ❌ partially             | ✔️✔️             | ✔️–               | ✔️                   | ✔️            | HDR evens out contrast, –1 EV darkens blown-out highlights.             |
+| **HDR + CPL**         | ✔️✔️                     | ✔️✔️✔️           | ✔️                | ✔️                   | ✔️✔️          | The best combination for daytime driving + contrasts, license plates.   |
+| **HDR + -1 EV + CPL** | ✔️✔️                     | ✔️✔️✔️           | – dark             | ⚠️                   | ✔️✔️          | Maximum control during the day, but may darken too much at night.       |
+
+Analysis
+1. HDR
+   - A basic function of modern dashcamsx
+   - Balances light and dark areas of the image → readability of license plates in the shade and against the sun.
+2. -1 EV
+   - A practical addition to HDR during the day: reduces blown-out, controls exposure.
+   - Be careful at night → too dark.
+3. CPL
+   - Definitely the most visible effect on reflections (dashboard, car windows, wet roads).
+   - Can slightly darken the image.
+4. HDR + CPL + -1 EV Combination
+   - Daytime, sun, reflections, city → the best setting.
+   - Night → it's better to leave CPL + HDR, EV = 0 or -0.3/0.7EV
+   - HDR + CPL offers a significant advantage over HDR alone.
+* YouTube?
+YouTube helps, but only a little. YouTube compression can hides the truth. Most footage is recorded in 1080p (even if they review 4k, lol), and YouTube recompresses videos to around 8–12 Mbps, sometimes less. And 12 Mbps is paywalled so you basically stuck with 8 MBps. Most dashcams locally record at 15–30 Mbps.
+
+This means:
+
+- bad cameras look slightly better
+- good cameras look slightly worse
+- fine details → plates, small text, pixel noise → get smoothed out
+So you can't reliably tell the difference between:
+
+- a real 1440p camera
+- a fake upscaled “4K” camera
+- a good Sony STARVIS sensor
+- a cheap CMOS sensor
+- garbage bitrate vs. good bitrate
+
+YouTube compresses the exact thing you’re trying to evaluate.
+* Example model
+Viofo A129 Duo (non-Pro version)
+if:
+- You want both front and rear recording, ideally also when **parked** (motion/impact detection).
+- You prefer plug-and-play, not hardwiring.
+- You're fine with loop recording, no need for cloud or Wi-Fi gimmicks.
+- A display is optional.
+- You’re not chasing flagship features—just want solid function and longevity.
+
+- Front + rear cameras, both Full HD.
+- Buffered parking mode (with motion detection), **works with plug-in hardwire kits or external battery**—but also works without if you want just normal drive-time recording.
+- Loop recording, supports your 128GB card.
+- Wi-Fi and app optional—you can use the physical buttons if you prefer.
+- Compact, solid design. Not flashy. No voice assistant, no bloat.
+- This is the **Toyota Corolla of dashcams**—not the flashiest, but incredibly dependable, widely tested, and aging well.
+- It's been around long enough that bugs are ironed out, and you avoid the "early adopter tax."
+- Spare parts and accessories are easy to find.
+- The image quality isn’t "flagship" 4K, but good enough for license plates and incident review—utility over pixels.
+- Prices often dip below flashy "4K" dashcams that offer worse night vision or overheat in summer.
+
+If you’re unsure now, the A129 Duo has been stable for years**—there’s no rush, no imminent tech leap. In fact, some newer 4K models are worse because of heat and battery stress. Dashcam innovation is incremental, not revolutionary — this is not a smartphone market.
