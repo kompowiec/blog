@@ -267,7 +267,7 @@ if:
 - You’re not chasing flagship features—just want solid function and longevity.
 
 - Front + rear cameras, both Full HD.
-- Buffered parking mode (with motion detection), **works with plug-in hardwire kits or external battery**—but also works without if you want just normal drive-time recording.
+- Buffered parking mode (with motion detection), works with plug-in hardwire kits or external battery but also works without if you want just normal drive-time recording.
 - Loop recording, supports your 128GB card.
 - Wi-Fi and app optional—you can use the physical buttons if you prefer.
 - Compact, solid design. Not flashy. No voice assistant, no bloat.
