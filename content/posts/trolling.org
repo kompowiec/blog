@@ -1,5 +1,5 @@
 ---
-title: "Why it matters, for you?"
+title: "Why does it matter to you?"
 date: 2025-09-14T13:01:46+01:00
 draft: false
 ---
@@ -23,21 +23,35 @@ basically it comes to 4 simple steps:
 4. Laugh
 5. Exit
 
-- Someone attacks eg. “nobody wants you here”
-  - reply: why it matters to you?
-- They try to justify
-  - they universalize: it matters to everyone! (or just use another red herring bs)
-    - Neutral amplifier: Interesting. And what does that change for you?
-- They double down: You’re just trying to provoke
+- Attack/insult: Someone attacks eg. “nobody wants you here”. Variants: personal jabs, passive-aggressive remarks, sarcasm.
+  - reply: Why does it matter to you?
+- They try to justify:
+  - Abstraction/universalization: (Variants: invoking rules, traditions, vague moral codes, or societal norms to avoid personal justification.) "it matters to everyone!" (or just use another red herring bs)
+    - Neutral amplifier: "Interesting. And what does that change for you?"
+- Double down/claim provocation: (Variants: framing you as biased, aggressive, or dishonest.) "You’re just trying to provoke"
   - you just pointing out: "oh well, you're susceptible to baits, I didn't know, that your emotional regulation is so bad." Then you laugh and leave
-- They dodge:
+- They dodge (Variants: changing subject, quoting unrelated facts, pretending to answer but dodging personal relevance.)
   - Nobody asked.
-- They drop: none
+- Drop/Silence/withdrawal: (Variants: passive resistance, stonewalling, ignoring questions entirely. "none"
   - Then why you mentioned that?
-- They waste time:
+- Time-wasting/repetitive commentary: (Variants: circular arguments, repeating points, changing minor details.)
   - Are you done? now answer or i'm done
-- They moralizing:
+- Moralizing/preaching: (Variants: lecturing, virtue signaling, dramatizing consequences.)
   - I didn't ask for complaints.
+- They Feigning ignorance or incompetence: "I don’t know what you mean."
+  - Dissmiss: "Well, I asked a simple question."
+    - Still evasive: "I just don’t know what you mean."
+      - "what don't you understand?"
+        - Clarification attempt: "I don’t get what you mean by personal stake" or Continued evasion: “Everything is confusing” or “I just don’t know”
+          - "It means why you are engaged?" or simply "why you are engaged?"
+      - Defensiveness/slight annoyance: "I don’t need to understand, I just know it’s not right."
+        - so why you are asking?
+          - Defensive: “I’m asking because I want to know your position!”
+            - "we are talking about you."
+- Emotional proejction: “You’re just trying to make me angry.”
+  - you are rensponsible for your emotions. Now back to question.
+- Appeals to authority: “I’m right because I’ve been doing this for 20 years.”
+  - Great. It means that you can share in your personal stake!
 - Optional: record/log if needed; don’t react emotionally.
 * Expand
 #+BEGIN_QUOTE
