@@ -16,22 +16,29 @@ Classic wisdom: “Don’t feed the trolls" still is technically true, but it is
 So what does work? I recently discover it for myself, you know answer from title.
 
 * TLDR
+basically it comes to 4 simple steps:
+1. Demand personal justification
+2. Block abstraction
+3. Expose emotional reaction (if any)
+4. Laugh
+5. Exit
+
 - Someone attacks eg. “nobody wants you here”
   - reply: why it matters to you?
-- They try to justify or escalate eg.
+- They try to justify
   - they universalize: it matters to everyone! (or just use another red herring bs)
     - Neutral amplifier: Interesting. And what does that change for you?
-      - They double down:
-        - You’re just trying to provoke
-          - oh well, you're susceptible to baits, I didn't know, that your emotional regulation is so bad
-            - You laugh and leave
+- They double down: You’re just trying to provoke
+  - you just pointing out: "oh well, you're susceptible to baits, I didn't know, that your emotional regulation is so bad." Then you laugh and leave
 - They dodge:
   - Nobody asked.
 - They drop: none
   - Then why you mentioned that?
-- Optional: record/log if needed; don’t react emotionally.
 - They waste time:
   - Are you done? now answer or i'm done
+- They moralizing:
+  - I didn't ask for complaints.
+- Optional: record/log if needed; don’t react emotionally.
 * Expand
 #+BEGIN_QUOTE
 Why it matters, FOR YOU?
