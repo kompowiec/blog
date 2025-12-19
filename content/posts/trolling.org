@@ -32,9 +32,12 @@ basically it comes to 4 simple steps:
   - you just pointing out: "oh well, you're susceptible to baits, I didn't know, that your emotional regulation is so bad." Then you laugh and leave
 - They dodge (Variants: changing subject, quoting unrelated facts, pretending to answer but dodging personal relevance.)
   - Nobody asked.
+  - Evidence dodge: It’s obvious.
+    - If it’s obvious, state it/If it were, no one would ask.
 - Drop/Silence/withdrawal: (Variants: passive resistance, stonewalling, ignoring questions entirely. "none"
   - Then why you mentioned that?
 - Time-wasting/repetitive commentary: (Variants: circular arguments, repeating points, changing minor details.)
+  - Tone policing: Watch your tone/You’re too aggressive
   - Are you done? now answer or i'm done
 - Moralizing/preaching: (Variants: lecturing, virtue signaling, dramatizing consequences.)
   - I didn't ask for complaints.
@@ -52,6 +55,12 @@ basically it comes to 4 simple steps:
   - you are rensponsible for your emotions. Now back to question.
 - Appeals to authority: “I’m right because I’ve been doing this for 20 years.”
   - Great. It means that you can share in your personal stake!
+- Burden-shifting/vague accusation: "You know what you did.” / “That’s problematic"
+  - 
+- False dilemma/forced framing: So you’re saying X or Y?
+  - Neither. Answer the actual question.
+- Collective shielding: “People feel…”, “Everyone thinks…”
+  - Who exactly? You?
 - Optional: record/log if needed; don’t react emotionally.
 * Expand
 #+BEGIN_QUOTE
