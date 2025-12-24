@@ -126,6 +126,50 @@ Useful if you park in risky areas, but not required for everyone.
   - Park in high-risk areas
   - Want instant notifications
   - Can and are willing to pay a subscription
+** Bluetooth button
+1. What it actually does
+   - When pressed, **marks/locks the current video clip** to prevent it from being overwritten.
+   - Works like a **remote "EVENT/LOCK" button**, except:
+   - no cable
+   - can be placed closer to the driver's hand
+2. When it MAKES sense
+   - Sudden non-impact events:
+     - failing to yield
+     - road rage
+     - threats, gestures, "road rage"
+     - dangerous maneuvers by other drivers
+3. In these situations:
+   - G-sensor not activated
+   - Automatic event not saved
+   - Manually securing footage is actually useful. Here, the button solves a real problem.
+4. When it doesn't make sense
+   - Collisions and accidents
+     - The G-sensor will still work
+   - Parking mode**
+     - The driver is not in the car
+   - After the incident
+     - You can remove the card/protect the file later
+5. Issues
+   1. Bluetooth = another point of failure: In a stressful situation, you don't have time to check if the button worked
+      - Dead button battery
+      - Lost pairing
+      - Reaction delay
+      - Interference
+   2. Driver behavior: In a real-life incident:
+      - You brake
+      - You look at the road
+      - You react instinctively. Few people remember to press the button.
+   3. Tape + small element
+      - May fall off in heat
+      - May be accidentally pressed
+      - May be noticed (aesthetics/curious hands)
+6. If the camera has:
+   - good loop recording
+   - reasonable clip length (1–3 minutes)
+   - solid G-sensor
+then a Bluetooth button is a luxury, not a necessity.
+
+**If you frequently encounter road rage** and want to **actively tag incidents** → it makes sense. It's a cool gadget, but not a reason to pay extra or choose a specific model.
 ** Wi-Fi & app
 Most apps are slow, buggy, annoying.
 
