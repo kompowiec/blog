@@ -33,7 +33,7 @@ Dash cams come in three main setups:
    ✘ often overpriced, overheating, lower real clarity
    ✘ “4K” often fake/up-sampled
 * Tier 1: Essential (must-have)
-** 0. Automatic recording start
+** Automatic recording start
 This is one of the **most important** features. Without it, the camera might… simply not record when you need it to.
 
 What it does:
@@ -44,10 +44,10 @@ What it does:
 - Manually turning it on = people forget.
 - If the camera doesn't record, everything else becomes irrelevant.
 - a device that requires you to remember to use it is a bad device.
-** 1. Capacitor power supply
+** Capacitor power supply
 Prevents overheating, swelling, or sudden death.
 Battery = failure. Capacitor = reliability.
-** 2. Sensor quality (not resolution)
+** Sensor quality (not resolution)
 Manufacturers hype “4K” because it sounds premium.
 Reality: cheap 4K sensors usually perform worse at night than a good 1080p Sony Starvis sensor.
 
@@ -57,7 +57,7 @@ Look for:
 - Real bit rate above ~20 Mbps
 
 Avoid no-name “4K Ultra Super Night Vision” claims.
-** 3. Parking mode
+** Parking mode
 This is what actually matters in the real world.
 Parking mode can work in 3 ways:
 
@@ -69,7 +69,7 @@ Parking mode can work in 3 ways:
    - Cheap, but misses everything except the moment of impact.
 3. **Motion-triggered (mixed usefulness)**
    - Very sensitive, often fills card with false positives (shadows, rain, trees).
-** 4. Memory card
+** Memory card
 Dash cams kill SD cards. Buy the correct type:
 
 - Samsung PRO Endurance, or
@@ -78,14 +78,7 @@ Dash cams kill SD cards. Buy the correct type:
 Avoid: “normal” SD cards. They die quickly.
 
 Size: 128GB is sweet spot. Bigger = less overwriting = more useful.
-** 5. Heat resistance
-Dash cams die from heat before they die from anything else — especially in summer.
-
-Look for:
-- Capacitor power supply (NOT lithium battery)
-- Operating temp up to 60–70°C
-Avoid: “battery-powered dash cams” and ultra-cheap €20–€40 no-brand units.
-** 6. Reasonable viewing angle (140°–150°)
+** Reasonable viewing angle (140°–150°)
 Wide enough to capture events, not too wide to distort plates.
 * Tier 2: Important, but not critical
 ** Glass lens
@@ -272,7 +265,7 @@ garbage. Any smartphone + navigation does it better.
 
 Analysis
 1. HDR
-   - A basic function of modern dashcamsx
+   - A basic function of modern dashcams
    - Balances light and dark areas of the image → readability of license plates in the shade and against the sun.
 2. -1 EV
    - A practical addition to HDR during the day: reduces blown-out, controls exposure.
@@ -309,7 +302,6 @@ if:
 - You're fine with loop recording, no need for cloud or Wi-Fi gimmicks.
 - A display is optional.
 - You’re not chasing flagship features—just want solid function and longevity.
-
 
 - Front + rear cameras, both Full HD.
 - Buffered parking mode (with motion detection), works with plug-in hardwire kits or external battery but also works without if you want just normal drive-time recording.
