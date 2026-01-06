@@ -19,19 +19,62 @@ Dash cams are built using:
 - the same generic Chinese plastic shells.
 99% of them are the same PCB inside the same shell.
 * Decide What You Actually Need
-Dash cams come in three main setups:
-1. **Front-only**
+** Cameras
+*** Front-only
    ✔ cheapest, simplest
    ✔ enough for 90% of accidents
    ✘ no rear coverage
-2. **Front + rear** (dual-channel)
+*** rear
    ✔ best value for real-world incidents (parking bumps, tailgaters, rear-end collisions)
    ✔ recommended for most drivers
    ✘ installation takes longer
-3. **360°/3-channel/4K marketing monsters**
+*** Interior camera
+- Purpose: Records the inside of the car (driver, passengers).
+- When it makes sense:
+  - Ride-sharing / taxis / delivery vehicles (document incidents with passengers).
+  - Protect against false claims in your car.
+- When it doesn’t make sense:
+  - Personal/private driving. Adds extra cost and data storage.
+  - Privacy concerns for passengers.
+Only buy if you **actually need interior coverage**. For 90% of private drivers, it’s unnecessary.
+*** Telephoto camera
+- Purpose: Captures distant objects or license plates at long range.
+- When it makes sense:
+  - Rare situations where you need to read plates from far behind.
+- When it doesn’t make sense:
+  - Adds cost, complexity, and often **reduces low-light performance**.
+  - Most front + rear cameras already cover the typical accident distance.
+For everyday driving, **telephoto cameras are mostly marketing gimmicks**. Stick with normal FOV front/rear cameras with good Sony STARVIS sensors.
+*** 360°/4K marketing monsters
    ✔ cool on paper
    ✘ often overpriced, overheating, lower real clarity
    ✘ “4K” often fake/up-sampled
+** Camera mounting methods
+*** Suction cup mount
+   - Pros:
+     - Easy to install and remove.
+     - Can reposition or transfer between vehicles.
+   - Cons:
+     - Can loosen over time, especially in heat.
+     - Slightly bulkier, may block view.
+   - note: Good for renters or temporary installations, but may be less stable long-term.
+*** Adhesive mount
+   * Pros:
+     * More stable and flush against windshield.
+     * Less vibration → cleaner video.
+     * Smaller and more discreet.
+   * Cons:
+     * Harder to remove; may leave residue.
+     * Not ideal if you plan to move the camera often.
+   * note: Best choice for permanent installation in your own vehicle.
+*** Hardwire / permanent installation
+   - Pros:
+     - Powers dash cam from car battery for **continuous parking mode**.
+     - Clean cable management → discreet and reliable.
+   - Cons:
+     - Requires basic electrical work or professional installation.
+     - Risk of improper installation draining battery if done incorrectly.
+   - note: Necessary if you rely on buffered parking mode or want zero cables hanging around.
 * Tier 1: Essential (must-have)
 ** Automatic recording start
 This is one of the **most important** features. Without it, the camera might… simply not record when you need it to.
@@ -70,14 +113,24 @@ Parking mode can work in 3 ways:
 3. **Motion-triggered (mixed usefulness)**
    - Very sensitive, often fills card with false positives (shadows, rain, trees).
 ** Memory card
-Dash cams kill SD cards. Buy the correct type:
-
-- Samsung PRO Endurance, or
-- SanDisk High Endurance, or
-- Transcend High Endurance
-Avoid: “normal” SD cards. They die quickly.
-
-Size: 128GB is sweet spot. Bigger = less overwriting = more useful.
+- Dash cams kill SD cards. Buy the correct type:
+  - Samsung PRO Endurance,
+  - SanDisk High Endurance, or
+  - Transcend High Endurance.
+- **Do not use standard cards**: they fail quickly under continuous loop recording.
+  - if possible, buy a card of the **same brand as the camera**; otherwise stick to proven Endurance cards from reliable sources.
+  - Avoid bargain or unknown cards: fakes and low-quality clones are a direct path to lost recordings.
+- Why it matters:  Memory cards have a limited number of write cycles, just like car tires wear out with dynamic driving. Dash cams **constantly write and overwrite data**, accelerating wear compared to a smartphone or camera. A failed card can mean **critical footage is lost**, so skimping here is dangerous.
+- Capacity guidance:
+  - Front-only cameras: minimum 32 GB, ideally 64 GB.
+  - Front + rear: 128 GB or more.
+  - Multi-channel (front, rear, interior, sides): 256 GB+ recommended.
+  - Larger cards allow longer loop periods before overwriting important clips.
+- Bitrate matters:
+  - Higher bitrate → better image quality → more space used. Example: 25 Mbps ≈ 3.125 MB/sec → 128 GB holds ~11 hours of footage.
+- Compatibility & reliability:
+  - Not all cards work reliably in all cameras. Some brands/models perform perfectly in some dash cams but fail in others.
+Summary: The memory card is **critical**: even if you cut corners on the dash cam itself, never cut corners here. Invest a bit more to ensure **key incidents are reliably recorded**.
 ** Reasonable viewing angle (140°–150°)
 Wide enough to capture events, not too wide to distort plates.
 * Tier 2: Important, but not critical
