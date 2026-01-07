@@ -188,7 +188,7 @@ Useful if you park in risky areas, but not required for everyone.
 4. When it doesn't make sense
    - Collisions and accidents
      - The G-sensor will still work
-   - Parking mode**
+   - Parking mode
      - The driver is not in the car
    - After the incident
      - You can remove the card/protect the file later
