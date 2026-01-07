@@ -159,9 +159,6 @@ Useful if you park in risky areas, but not required for everyone.
   - Expensive data plan/SIM card
     - LTE requires a permanent connection, often with a monthly fee.
   - Free access is practically nonexistent.
-  - Battery and Heat
-    - LTE generates additional heat → the camera heats up faster → shortens its lifespan.
-    - In a car in the summer, this is a real problem.
   - High risk of outage/range
     - LTE signal in a garage/parking lot may be weak.
     - If LTE fails, notifications won't arrive → a false sense of security.
