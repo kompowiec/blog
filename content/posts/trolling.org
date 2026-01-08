@@ -18,7 +18,7 @@ So what does work? I recently discover it for myself, you know answer from title
 * TLDR
 basically it comes to 4 simple steps:
 1. Demand personal justification - Why does it matter to you?
-2. Block abstraction - Nobody asked.
+2. Block abstraction - Nobody asked/did anyone ask you for your opinion?
 3. Expose emotional reaction (if any) - are you done with your tantrum? I'm asking specifically about your motivations, are you pretending you don't have them?
 4. if they still can't answer - Laugh
 5. Exit
@@ -33,6 +33,7 @@ basically it comes to 4 simple steps:
 - They dodge (Variants: changing subject, quoting unrelated facts, pretending to answer but dodging personal relevance.)
   - Nobody asked/That’s outside the scope
   - You didn't answer the question - that's already the answer.
+  - did anyone ask you for your opinion?
   - Evidence dodge: It’s obvious.
     - If it’s obvious, state it/If it were, no one would ask.
 - Drop/Silence/withdrawal: (Variants: passive resistance, stonewalling, ignoring questions entirely. "none"
