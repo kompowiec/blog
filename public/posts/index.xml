@@ -45,7 +45,7 @@
       <description>Abstract: This document defines an XMPP protocol extension for schedule future sends. Authors: Kompowiec2 Copyright: © 1999 – 2025 XMPP Standards Foundation. SEE LEGAL NOTICES. Status Active Type: Standards Track Version 1.0.0 (2025-09-14) 1. Summary This XEP defines a standard mechanism for scheduling the delivery of XMPP messages at a specific future time or after a specified delay. It provides a client- and server-compatible protocol for scheduling one-off and recurring messages, support for time zones and absolute timestamps, status queries, cancellation, and policy controls for servers and components that choose to implement scheduling.</description>
     </item>
     <item>
-      <title>Why it matters, for you?</title>
+      <title>Why does it matter to you?</title>
       <link>http://localhost:1313/posts/trolling/</link>
       <pubDate>Sun, 14 Sep 2025 13:01:46 +0100</pubDate>
       <guid>http://localhost:1313/posts/trolling/</guid>
