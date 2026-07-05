@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-US</language>
     <copyright>Copyright © 2025 kompowiec2. Verbatim copying and redistribution of this entire page are permitted provided this notice is preserved. Verbatim copying and redistribution of any of the content is permitted under the Creative Commons Noderivs license version 3.0 or later.</copyright>
-    <lastBuildDate>Fri, 12 Dec 2025 17:29:56 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 21:13:00 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TRIZMaxxing</title>
+      <link>http://localhost:1313/posts/trizmaxxing/</link>
+      <pubDate>Thu, 04 Jun 2026 21:13:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/trizmaxxing/</guid>
+      <description>Definition: TRIZmaxxing is the deliberate use of Large Language Models (LLMs) to amplify TRIZ-based innovation by systematically exploring contradictions, resources, analogies, and evolutionary patterns across many domains in order to discover non-obvious solutions.&#xA;In simple terms: TRIZ tells you where to look; LLMs dramatically increase how much of the solution space you can search.&#xA;An LLM acts as an idea multiplier and cross-domain knowledge engine, allowing a person to examine far more potential solution paths than would be practical manually.</description>
+    </item>
     <item>
       <title>car dash cam</title>
       <link>http://localhost:1313/posts/dashcam/</link>

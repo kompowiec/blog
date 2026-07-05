@@ -1,0 +1,125 @@
++++
+title = 'TRIZMaxxing'
+date = 2026-06-04T21:13:00+01:00 
+draft = false
++++
+**Definition:**
+TRIZmaxxing is the deliberate use of Large Language Models (LLMs) to amplify TRIZ-based innovation by systematically exploring contradictions, resources, analogies, and evolutionary patterns across many domains in order to discover non-obvious solutions.
+
+In simple terms: TRIZ tells you where to look; LLMs dramatically increase how much of the solution space you can search.
+
+An LLM acts as an idea multiplier and cross-domain knowledge engine, allowing a person to examine far more potential solution paths than would be practical manually.
+* Example
+**Problem:** Smartphones overheat under heavy load.
+- Traditional approach:
+  - Bigger heat sink
+  - Lower processor performance
+  - Add a fan
+- TRIZmaxxing approach using an LLM:
+  - Identify the contradiction:
+    - The phone should be powerful and remain cool.
+  - Search for analogies in other fields:
+    - Biology → sweating and blood circulation.
+    - Data centers → workload migration.
+    - Traffic engineering → load balancing.
+    - Architecture → passive cooling and thermal mass.
+  - Generate concepts:
+    - Move intensive tasks between CPU cores to spread heat.
+    - Temporarily store heat in phase-change materials.
+    - Redirect heat toward areas less frequently touched by the user.
+    - Predict thermal spikes and pre-cool the system before they occur.
+  The innovation comes not from inventing entirely new physics, but from **transferring proven ideas from other domains into the smartphone problem.
+** Formula
+TRIZmaxxing = TRIZ × LLM
+Where:
+- **TRIZ** provides the structure of inventive thinking.
+- **LLM** provides large-scale cross-domain search and rapid hypothesis generation.
+* Real World Example
+https://www.youtube.com/watch?v=u4ecRiXADCo
+
+if you're interested in the TRIZ approach, this example is textbook: not so much "inventing new mathematics" as **transferring a solution from another field to a problem where no one has applied it before**.
+
+In TRIZ terms, this would be something like:
+
+- **Rule 24: Intermediary** – using number theory as an intermediary to solve a geometry problem.
+- **Rule 13: Inversion** – instead of analyzing geometry with geometry, move to a different representation.
+- **Rule 17: Another Dimension** – looking at the problem from a higher level of abstraction.
+- **ARIZ: leveraging resources already existing in the system** but not utilized.
+This is exactly the kind of thing LLM can be particularly useful for.
+
+TRIZMaxxing it's literally access to 3 lvl of innovation
+https://triz.org/levels/
+** How to use LLM as a "TRIZ engine"
+Instead of asking:
+#+BEGIN_QUOTE
+How to solve problem X?
+#+END_QUOTE
+ask:
+#+BEGIN_QUOTE
+In what other fields are there problems analogous to X?
+#+END_QUOTE
+or
+#+BEGIN_QUOTE
+Find solutions from other industries that can be transferred to X.
+#+END_QUOTE
+Example:
+#+BEGIN_QUOTE
+I have a problem with notifications on my phone. What solutions to similar problems exist in aviation, medicine, automotive, and manufacturing?
+#+END_QUOTE
+This often yields much more interesting answers than classic brainstorming.
+** The "100 Fields" Technique
+You could ask LLM to do something like this:
+#+BEGIN_QUOTE
+Treat this problem as an expert in:
+- biology
+- military
+- economics
+- computer networks
+- psychology
+- logistics
+- computer games
+What solutions would each field propose?
+#+END_QUOTE
+This is practically forcing knowledge transfer between domains.
+** The "Hidden Analogy" Technique
+One of the most powerful things.
+
+For example, you ask:
+#+BEGIN_QUOTE
+Problem: people ignore my messages.
+Don't analyze psychology. Find structurally similar problems in:
+- computer networks
+- biology
+- marketing
+- alarm systems
+#+END_QUOTE
+The result might be:
+- packets get lost in the network → messages compete for attention,
+- alarm fatigue in medicine → too many signals cause all to be ignored,
+- spam filtering → the recipient filters without conscious decision.
+This often leads to non-obvious solutions.
+** "Invention Space Search" Technique
+You can have LLM work almost like a TRIZ matrix:
+#+BEGIN_QUOTE
+Problem: I want a notification LED on my Pixel (glow). Generate:
+- 20 mechanical solutions
+- 20 optical solutions
+- 20 software solutions
+- 20 biologically inspired solutions
+- 20 absurd solutions
+#+END_QUOTE
+** Most Advanced Mode
+If you want to maximize LLM innovation strengths, use commands like:
+#+BEGIN_QUOTE
+Solve the problem using:
+1. TRIZ
+2. First Principles
+3. Cross-domain analogies
+4. Systems theory
+5. TRIZ technological evolution
+
+Then find common solutions that appear across multiple methods.
+#+END_QUOTE
+This is similar to what you have in the Erdős problem story: not looking for a new hammer, but searching through the vast space of existing hammers and finding one that no one has ever tried to use on that nail.
+
+From a practical innovation perspective, this often provides more value than trying to create something completely new from scratch.
