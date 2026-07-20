@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-06-04T21:13:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/trizmaxxing/</loc>
+    <lastmod>2026-06-04T21:13:00+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/dashcam/</loc>
     <lastmod>2025-12-12T17:29:56+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-12-12T17:29:56+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/triz-matrix-proposal/</loc>
-    <lastmod>2025-12-06T07:12:33+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/trizmaxxing/</loc>
     <lastmod>2025-12-06T07:12:33+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/paczkomat/</loc>

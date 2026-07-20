@@ -85,7 +85,7 @@ We ask: What storage medium offers the best combination of capacity and read spe
 - data: 125 drives max = 2 PB per shipment
 - Transfer: 92.59-185.2 Gb/s
 - Read time for one drive: 16 TB / 7000 MB/s = 38 minutes 5.714 seconds * 125 = 3 days 7 hours 21 minutes 54.25 seconds
-** 1. Top Choice: M.2 NVMe SSDs (in trays/enclosures)
+** 1. Top Choice: M.2 NVMe SSDs (in trays/enclosures) 🖴
 - Typical size = 22 × 80 × 4 mm = 7,040 mm³
 - weight: ~10g
 - Read speed: 3,500 MB/s
@@ -110,7 +110,7 @@ We ask: What storage medium offers the best combination of capacity and read spe
   - 191 mm/ 3.3 mm = 57 floppies per stack
   - 3 * 4 * 57 = 684 disks max under height constraint
   - 684 * 1.44MB = 985 MB​
-** compact discs
+** compact discs 💿
 - Specs
   - Diameter: 120 mm = 12 cm
   - Thickness: 1.2 mm

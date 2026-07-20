@@ -49,67 +49,67 @@ This is exactly the kind of thing LLM can be particularly useful for.
 
 TRIZMaxxing it's literally access to 3 lvl of innovation
 https://triz.org/levels/
-** How to use LLM as a "TRIZ engine"
-Instead of asking:
-#+BEGIN_QUOTE
-How to solve problem X?
-#+END_QUOTE
-ask:
-#+BEGIN_QUOTE
-In what other fields are there problems analogous to X?
-#+END_QUOTE
-or
-#+BEGIN_QUOTE
-Find solutions from other industries that can be transferred to X.
-#+END_QUOTE
-Example:
-#+BEGIN_QUOTE
-I have a problem with notifications on my phone. What solutions to similar problems exist in aviation, medicine, automotive, and manufacturing?
-#+END_QUOTE
-This often yields much more interesting answers than classic brainstorming.
-** The "100 Fields" Technique
-You could ask LLM to do something like this:
-#+BEGIN_QUOTE
-Treat this problem as an expert in:
-- biology
-- military
-- economics
-- computer networks
-- psychology
-- logistics
-- computer games
-What solutions would each field propose?
-#+END_QUOTE
-This is practically forcing knowledge transfer between domains.
-** The "Hidden Analogy" Technique
-One of the most powerful things.
 
-For example, you ask:
-#+BEGIN_QUOTE
-Problem: people ignore my messages.
-Don't analyze psychology. Find structurally similar problems in:
-- computer networks
-- biology
-- marketing
-- alarm systems
-#+END_QUOTE
-The result might be:
-- packets get lost in the network → messages compete for attention,
-- alarm fatigue in medicine → too many signals cause all to be ignored,
-- spam filtering → the recipient filters without conscious decision.
-This often leads to non-obvious solutions.
-** "Invention Space Search" Technique
-You can have LLM work almost like a TRIZ matrix:
-#+BEGIN_QUOTE
-Problem: I want a notification LED on my Pixel (glow). Generate:
-- 20 mechanical solutions
-- 20 optical solutions
-- 20 software solutions
-- 20 biologically inspired solutions
-- 20 absurd solutions
-#+END_QUOTE
-** Most Advanced Mode
-If you want to maximize LLM innovation strengths, use commands like:
+| Innovation level                   | TRIZ alone              | LLM alone    | TRIZ + LLM  |
+| Level 1 (improvements)             | Excellent               | Excellent    | Excellent   |
+| Level 2 (technical contradictions) | Excellent               | Good         | Excellent   |
+| Level 3 (physical contradictions)  | Excellent but difficult | Fair         | Very strong |
+| Level 4 (new technology)           | Good                    | Good         | Strong      |
+| Level 5 (new scientific phenomena) | Very limited            | Very limited | Limited     |
+
+The short answer is: **LLMs significantly increase your ability to work at Levels 1–3, somewhat assist with Level 4, and are currently very limited at Level 5.** However, the combination of **TRIZ + LLM** is considerably more powerful than either one alone because they compensate for each other's weaknesses.
+
+I actually think the biggest advantage is **reducing psychological inertia**, something Altshuller considered one of the main obstacles to inventive thinking.
+
+The workflow becomes:
+
+Problem
+↓
+ARIZ
+↓
+Contradictions
+↓
+Resources
+↓
+Ideal Final Result
+↓
+LLM generates dozens or hundreds of analogies
+↓
+You evaluate
+↓
+Repeat
+
+Instead of spending two days brainstorming, you can explore hundreds of candidate directions in an hour.
+** One limitation
+LLMs know *what has already been invented* much better than *what is actually feasible for your specific constraints*.
+
+They may confidently suggest:
+
+- carbon nanotubes
+- MEMS devices
+- quantum sensors
+- graphene coatings
+even if those are economically or technically impractical for your project.
+
+TRIZ helps because it forces you back to questions like:
+- What resources already exist?
+- What is the actual contradiction?
+- What is the Ideal Final Result?
+- Can this be solved more simply?
+That keeps the search grounded instead of chasing exotic technologies.
+
+If Altshuller were working today, I suspect he would treat a capable LLM as an **intellectual resource** within TRIZ rather than as an inventor. It doesn't replace ARIZ's disciplined reasoning; it dramatically expands the pool of analogies, technologies, patents, and cross-domain knowledge available at each step.
+
+Practically, this means:
+
+- Level 1: Almost fully accessible.
+- Level 2: Highly accessible with structured TRIZ prompting.
+- Level 3: Much more accessible than before because cross-domain analogies can be generated quickly.
+- Level 4: More attainable by exploring technology substitutions from many scientific and engineering fields, though success still depends on human judgment and implementation.
+- Level 5: Essentially unchanged. Genuine discoveries of new physical phenomena still require original scientific research, experimentation, and validation.
+
+One additional effect that isn't captured in Altshuller's five levels is **speed**. TRIZ helps you search the space of inventive solutions systematically; an LLM lets you search that space orders of magnitude faster. That doesn't automatically move every solution to a higher innovation level, but it increases the chance that you'll reach a Level 3 or Level 4 concept by allowing many more hypotheses to be explored and refined in the same amount of time.
+* How to use LLM as a "TRIZ engine"
 #+BEGIN_QUOTE
 Solve the problem using:
 1. TRIZ
@@ -120,6 +120,105 @@ Solve the problem using:
 
 Then find common solutions that appear across multiple methods.
 #+END_QUOTE
-This is similar to what you have in the Erdős problem story: not looking for a new hammer, but searching through the vast space of existing hammers and finding one that no one has ever tried to use on that nail.
+This is similar to what you have in the Erdős problem story: not looking for a new hammer, but searching through the vast space of existing hammers and finding one that no one has ever tried to use on that nail. From a practical innovation perspective, this often provides more value than trying to create something completely new from scratch.
 
-From a practical innovation perspective, this often provides more value than trying to create something completely new from scratch.
+Example from gemini:
+https://gemini.google.com/share/68b82dd5ddd5 (classic P versus NP problem)
+#+BEGIN_SRC markdown
+The brief, absolute mathematical answer to whether one-way functions (OWFs) exist is: **We do not know.** The existence of one-way functions remains one of the greatest open conjectures in theoretical computer science and mathematics (Levin, 2000). Proving that a one-way function definitively exists would automatically prove that **$P \neq NP$** (Casal et al., 2018). Because we cannot yet prove $P \neq NP$ (Rass et al., 2024), we cannot mathematically prove that OWFs exist. However, the entire framework of modern cryptography relies on *candidate* functions (such as integer factorization or discrete logarithms) that behave exactly like OWFs in practice.
+
+Below is an analysis of this fundamental problem broken down through five analytical lenses, followed by the unifying thread that ties them all together.
+
+---
+
+## 1. TRIZ (Theory of Inventive Problem Solving)
+
+In TRIZ, we look at the core contradiction of a system. A one-way function presents a classic **physical contradiction**:
+
+- **The system must be open/accessible** (easy to compute in the forward direction: $x \to f(x)$).
+- **The system must be closed/impenetrable** (infeasible to compute in the reverse direction: $f(x) \to x$).
+
+### TRIZ Inventive Principles Applied:
+
+- **Principle 1: Segmentation (Asymmetry).** Do not make the forward and backward pathways identical. The forward pathway uses simple, direct operators (e.g., modular multiplication), while the backward pathway forces a branch into an exponentially large search space (multiplicative components).
+- **Principle 10: Prior Action.** Introduce a "trapdoor" (asymmetric information) *before* the function is computed. This acts as a secret guide that collapses the inverse complexity for the creator while leaving it intact for others.
+- **Principle 14: Spheroidality / Curvature.** Instead of linear operations, force the data into cyclic fields (e.g., Modular Arithmetic, Elliptic Curves). Moving along the curve is a simple iterative step; finding *how many* steps were taken requires solving the discrete logarithm problem.
+  ---
+
+## 2. First Principles
+
+  To understand why OWFs are so difficult to prove, we must strip away specific algorithms and look at the fundamental constraints of computation and logic:
+
+- **Forward Computation:** Computing $f(x)$ requires a deterministic sequence of operations where information is systematically concentrated. In a polynomial number of steps ($O(n^k)$), a specific path is walked from input to output.
+- **Backward Computation:** Reversing $f(x)$ means starting at the output and finding the valid preimage. If the forward function is a many-to-one or highly scattered one-to-one mapping, the inverse path is not a single line, but a tree of possibilities.
+- **The Fundamental Asymmetric Bottleneck:** Checking a solution requires verifying a single path (Polynomial time). Finding a solution without a map requires searching the entire configuration space (Exponential time, $O(2^n)$).
+  The problem is that First Principles also dictate that **information cannot simply vanish** in a deterministic system; it is hidden in the relationships between bits. We cannot prove OWFs exist because we haven't yet proven that a clever shortcut algorithm cannot bypass the brute-force search space.
+
+  ---
+
+  ## 3. Cross-Domain Analogies
+
+  To contextualize the asymmetry of a one-way function without using math, we can look at macroscopic, physical systems where reversing an action requires radically more energy or organization than doing it.
+
+  | System                  | Forward Operation ($f(x)$)                                      | Reverse Operation ($f^{-1}(x)$)                                                 |
+  | ---                     | ---                                                             | ---                                                                             |
+  | **Mechanical/Chemical** | Dropping a ceramic mug on a concrete floor (Gravity + Entropy). | Reassembling the microscopic ceramic bonds precisely back into a mug.           |
+  | **Thermal Dynamics**    | Dropping a single droplet of blue ink into a glass of water.    | Separating every single molecule of blue dye back into a concentrated droplet.  |
+  | **Biological**          | Digesting an apple down to its molecular components.            | Synthesizing those exact molecular waste products back into the original apple. |
+
+  In the physical world, **Entropy** (The Second Law of Thermodynamics) acts as the ultimate one-way function. In computer science, **Computational Complexity** acts as the digital analogue to entropy.
+
+  ---
+
+  ## 4. Systems Theory
+
+  Systems theory views a one-way function as an information-processing system. We can analyze it using state spaces and information flow:
+
+  ```
+  [ Input State: x ] ---> ( Forward System Transformation ) ---> [ Output State: f(x) ]
+           ^                                                                  |
+           |                                                                  v
+    [ Low Entropy ]                                                    [ High Entropy ]
+    (Localized Bit State)                                         (Dissipated/Scattered Bits)
+
+  ```
+
+- **Dissipation of Information Links:** In a good candidate OWF, the internal subsystems (bit-shifting, modular reductions) mix the input bits so thoroughly that the local statistical dependencies are completely destroyed.
+- **State-Space Expansion:** Systems theory focuses on the *observability* of a system. From the output $f(x)$, the internal state variables are structurally unobservable unless you possess the system's "state transfer matrix" (the private key or trapdoor). Without it, the system behaves as a black box with non-linear feedback loops, making backward tracking mathematically chaotic.
+  ---
+
+  ## 5. TRIZ Technological Evolution
+
+  If we treat cryptographic mechanisms as evolving technical systems, they follow the standard TRIZ evolutionary paths:
+
+  1. **Monosystem (The Hash / OWF):** A basic one-way mechanism (e.g., SHA-256). It is highly durable but lacks flexibility. It can verify, but it cannot securely communicate.
+  2. **Bi-System / Poly-System (Asymmetric Cryptography):** Combining two coupled mathematical structures to create a **Trapdoor One-Way Function** (e.g., RSA, Diffie-Hellman). This allows secure key exchanges over public channels.
+  3. **Transition to the Micro-level (Quantum Cryptography):** The current evolutionary trend moves away from macroscopic mathematical complexity (like factoring numbers) toward quantum state complexity (Casal et al., 2018). Quantum one-way functions utilize the fundamental physical laws of subatomic particles (e.g., no-cloning theorem, quantum superposition) rather than relying purely on unproven mathematical conjectures (World Scientific, 2025).
+
+  ---
+
+  ## The Core Convergence: What Lies at the Intersection?
+
+  When you look across all five methodologies, a single, definitive truth emerges. The concept of a one-way function is not just an arbitrary invention of computer scientists; it is the mathematical manifestation of **Asymmetric Entropy**.
+
+  ```
+      TRIZ Asymmetric Pathways 
+		 \
+    FIRST PRINCIPLES Complexity Bottlenecks ---> [ ASYMMETRIC ENTROPY ] <--- SYSTEMS THEORY Information Dissipation
+		 /
+      CROSS-DOMAIN Physical Realities
+
+  ```
+
+  Whether you call it the **Second Law of Thermodynamics** (Analogies), **Information Dissipation** (Systems Theory), **System Segmentation** (TRIZ), or **$P \neq NP$** (First Principles), they all point to the exact same phenomenon: **It is fundamentally easier to scatter information than it is to gather it back together.** Until mathematics can definitively prove that this structural dissipation cannot be bypassed by an algorithm, one-way functions will remain the most functional, unproven bedrock of our digital world.
+
+  ### References
+
+- Casal, F., Rasga, J., & Souto, A. (2018). Kolmogorov One-Way Functions Revisited. *Cryptography*, *2*(2), 9. [https://doi.org/10.3390/cryptography2020009](https://doi.org/10.3390/cryptography2020009)
+  Cited by: 3
+- Levin, L. A. (2000). The Tale of One-way Functions. *Problems of Information Transmission*, *39*(1), 92-103. [https://doi.org/10.48550/arxiv.cs/0012023](https://doi.org/10.48550/arxiv.cs/0012023)
+  Cited by: 148
+- Rass, S., Jakobitsch, M. J., Haan, S., & Hiebler, M. (2024). Computer-Aided Verification of P/NP Proofs: A Survey and Discussion. *IEEE Access*, *12*, 13513-13524. [https://doi.org/10.1109/access.2024.3355540](https://doi.org/10.1109/access.2024.3355540)
+  Cited by: 1
+- The existence of quantum one-way functions. (2025). *World Scientific Publishing*. [https://doi.org/10.1142/S021773232550083X](https://doi.org/10.1142/S021773232550083X)
+#+END_SRC markdown
